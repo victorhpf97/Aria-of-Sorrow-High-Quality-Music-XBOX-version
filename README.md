@@ -8,6 +8,10 @@ The modified mGBA core replaces Aria of Sorrow's original background music with 
 
 ---
 
+## 🎬 Video Demo
+
+[![Watch the Aria of Sorrow HQ Music Mod](https://img.youtube.com/vi/Dm6gLcpuvKk/maxresdefault.jpg)](https://youtu.be/Dm6gLcpuvKk)
+
 ## ⚠️ Important: the Xbox core must be installed
 
 On Xbox, do **not** try to use the custom DLL directly from the USB drive as if it were a normal playlist core.
